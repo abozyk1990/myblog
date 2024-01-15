@@ -1,6 +1,6 @@
 ## Microsoft 365 & Power Platform news by Andrzej Bożyk #1
 
-Relase date: 15.01.2024
+Release date: 15.01.2024
 
 ### Power BI
 | Summary | Link |
