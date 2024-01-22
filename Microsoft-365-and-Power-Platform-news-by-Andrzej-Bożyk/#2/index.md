@@ -35,7 +35,7 @@ Relase date: 22.01.2024
 ### Microsoft Education
 | Summary | Link |
 | ---------| -------|
-| - Copilot for Microsoft 365 available for education faculty and staff (including Office 365 A3 and A5) starting from January 1, 2024. No seat minimum.<br>- Microsoft Loop is included in Microsoft 365 A3 and A5 plans,<br>- Reading Coach, a Learning Accelerator powered by generative AI<br>- Microsoft Teams for Education and Microsoft Reflect to design learning content<br>- Youth online safety and wellness. | [Unlocking productivity and personalizing learning with AI](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai) | 
+| - Copilot for Microsoft 365 available for education faculty and staff (including Office 365 A3 and A5) starting from January 1, 2024. No seat minimum.<br>- Microsoft Loop is included in Microsoft 365 A3 and A5 plans.<br>- Reading Coach, a Learning Accelerator powered by generative AI.<br>- Microsoft Teams for Education and Microsoft Reflect to design learning content.<br>- Youth online safety and wellness. | [Unlocking productivity and personalizing learning with AI](https://educationblog.microsoft.com/en-us/2024/01/unlocking-productivity-and-personalizing-learning-with-ai) | 
 
 ### GitHub
 | Summary | Link |
