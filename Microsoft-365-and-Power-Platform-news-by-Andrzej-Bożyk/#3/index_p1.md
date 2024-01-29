@@ -24,7 +24,7 @@ Relase date: 29.01.2024
 ### Upcoming updates to loading websites in Teams tabs
 | Highlights | Link |
 | ---------| -------|
-|- The Website tab in Microsoft Teams allows users to pin and load a website in a chat or channel. Users can enter a URL and the website will load within the Teams app.<br>- Starting April 2024, the Website tab will open website links in a new browser tab instead of loading them within Teams. This change is being made to align with web security and privacy best practices and improve the reliability of website loading. | [Upcoming updates to loading websites in Teams tabs](https://devblogs.microsoft.com/microsoft365dev/upcoming-updates-to-loading-websites-in-teams-tabs/) |
+|Starting April 2024, the Website tab will open website links in a new browser tab instead of loading them within Teams. This change is being made to align with web security and privacy best practices and improve the reliability of website loading. | [Upcoming updates to loading websites in Teams tabs](https://devblogs.microsoft.com/microsoft365dev/upcoming-updates-to-loading-websites-in-teams-tabs/) |
 
 
 ### Stay ahead of the game with the latest updates to the Microsoft 365 Developer Program
